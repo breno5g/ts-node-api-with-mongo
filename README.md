@@ -1,4 +1,4 @@
-<h1 align="center"> Ts Api Template with Prisma and MySql </h1>
+<h1 align="center"> Ts Api Template with Mongo </h1>
 
 </br>
 
@@ -14,8 +14,8 @@ src/
 ├── entities/
 ├── external/
 │   ├── database/
-│   │   └── prisma/
-│   │       └── schema.prisma
+│   │   └── mongo/
+│   │       └── index.ts
 │   ├── routes/
 │   ├── app.ts
 │   ├── envConfig.ts
